@@ -1,0 +1,15 @@
+C:\Users\Gybsom\source\repos\03. Operadores e Condicionais\03. Operadores e Condicionais\bin\Debug\net7.0\03. Operadores e Condicionais.exe
+C:\Users\Gybsom\source\repos\03. Operadores e Condicionais\03. Operadores e Condicionais\bin\Debug\net7.0\03. Operadores e Condicionais.deps.json
+C:\Users\Gybsom\source\repos\03. Operadores e Condicionais\03. Operadores e Condicionais\bin\Debug\net7.0\03. Operadores e Condicionais.runtimeconfig.json
+C:\Users\Gybsom\source\repos\03. Operadores e Condicionais\03. Operadores e Condicionais\bin\Debug\net7.0\03. Operadores e Condicionais.dll
+C:\Users\Gybsom\source\repos\03. Operadores e Condicionais\03. Operadores e Condicionais\bin\Debug\net7.0\03. Operadores e Condicionais.pdb
+C:\Users\Gybsom\source\repos\03. Operadores e Condicionais\03. Operadores e Condicionais\obj\Debug\net7.0\03. Operadores e Condicionais.csproj.AssemblyReference.cache
+C:\Users\Gybsom\source\repos\03. Operadores e Condicionais\03. Operadores e Condicionais\obj\Debug\net7.0\03. Operadores e Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gybsom\source\repos\03. Operadores e Condicionais\03. Operadores e Condicionais\obj\Debug\net7.0\03. Operadores e Condicionais.AssemblyInfoInputs.cache
+C:\Users\Gybsom\source\repos\03. Operadores e Condicionais\03. Operadores e Condicionais\obj\Debug\net7.0\03. Operadores e Condicionais.AssemblyInfo.cs
+C:\Users\Gybsom\source\repos\03. Operadores e Condicionais\03. Operadores e Condicionais\obj\Debug\net7.0\03. Operadores e Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\Gybsom\source\repos\03. Operadores e Condicionais\03. Operadores e Condicionais\obj\Debug\net7.0\03. Operadores e Condicionais.dll
+C:\Users\Gybsom\source\repos\03. Operadores e Condicionais\03. Operadores e Condicionais\obj\Debug\net7.0\refint\03. Operadores e Condicionais.dll
+C:\Users\Gybsom\source\repos\03. Operadores e Condicionais\03. Operadores e Condicionais\obj\Debug\net7.0\03. Operadores e Condicionais.pdb
+C:\Users\Gybsom\source\repos\03. Operadores e Condicionais\03. Operadores e Condicionais\obj\Debug\net7.0\03. Operadores e Condicionais.genruntimeconfig.cache
+C:\Users\Gybsom\source\repos\03. Operadores e Condicionais\03. Operadores e Condicionais\obj\Debug\net7.0\ref\03. Operadores e Condicionais.dll
